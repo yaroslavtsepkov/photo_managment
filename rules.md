@@ -18,7 +18,7 @@
 
 Иерархия хранения фотографий:
 
-\root\<country>\<city>\<YYYY>\<types>*\.<JPEG\RAW>
+\root\country\city\YYYY\types*\.JPEG\RAW
 
 types (типы фотографий):
 - исходные файлы (raw)
